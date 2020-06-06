@@ -19,5 +19,6 @@ jobs:
         USERNAME: ${{ secrets.USER }}
         KEY: ${{ secrets.SSHKEY }}
       with:
+        rm: true
         source: "./_site/"
         target: "${{ secrets.REMOTE_DIR }}"

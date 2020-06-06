@@ -20,5 +20,7 @@ jobs:
         KEY: ${{ secrets.SSHKEY }}
       with:
         rm: true
-        source: "_site/*"
+        strip_components: true
+        source: "_site/"
         target: "${{ secrets.REMOTE_DIR }}"
+        

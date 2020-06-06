@@ -21,6 +21,6 @@ jobs:
       with:
         rm: true
         strip_components: true
-        source: "_site/"
+        source: "_site"
         target: "${{ secrets.REMOTE_DIR }}"
         

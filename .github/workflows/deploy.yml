@@ -19,5 +19,5 @@ jobs:
         USERNAME: ${{ secrets.USER }}
         KEY: ${{ secrets.SSHKEY }}
       with:
-        source: "./_site"
+        source: "./_site/*"
         target: "/home/el/site"

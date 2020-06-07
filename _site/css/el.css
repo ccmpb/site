@@ -9,6 +9,14 @@ body {
 	padding-right: 2rem;
 }
 
+.center {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -100px;
+}
+
 .container {
 	margin: 0 auto;
 	max-width: 70rem;

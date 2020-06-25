@@ -22,10 +22,9 @@ title: colin
 <p>&nbsp;</p>
 
 #### Skills:
-* Python, Javascript, Perl
-* Nodejs, React, Vuejs,
-* Docker, Kubernetes, Kafka
-
+* Leadership, Mentoring
+* Programming, Architecture
+* Testing, CI/CD 
 
 <p>&nbsp;</p>
 

@@ -40,4 +40,4 @@ title: colin
 
 <p>&nbsp;</p>
 
-For project enquiries [colin@elusivelabs.com](mailto:colin@elusivelabs.com)
+For project enquiries: [colin@elusivelabs.com](mailto:colin@elusivelabs.com)

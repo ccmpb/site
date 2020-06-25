@@ -35,3 +35,9 @@ h1 {
 a {
 	color: #c9cacc;
 }
+
+hr {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+	background: #999;
+}

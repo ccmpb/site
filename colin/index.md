@@ -22,7 +22,7 @@ title: colin
 <p>&nbsp;</p>
 
 #### Skills:
-* Leadership, Mentoring
+* Team Building, Leadership, Mentoring
 * Programming, Architecture
 * Testing, CI/CD 
 

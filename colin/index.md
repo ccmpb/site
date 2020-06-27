@@ -36,7 +36,7 @@ title: colin
 ## Contact
 ---
 * [linkedin](https://www.linkedin.com/in/colincode/)
-* [github](https://github.com/colincode)
+* [github](https://github.com/colinac)
 
 <p>&nbsp;</p>
 

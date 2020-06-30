@@ -8,9 +8,14 @@
   <title>el ❯ {{ title }}</title>
 </head>
 <body>
-  <header>
-  </header>
+  
   <div class="container">
+    <header>
+    <nav>
+      {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+    </nav>
+    </header>
+
     {{ content | safe }}
    </div>
    <footer>

@@ -1,6 +1,8 @@
 ---
 layout: default.njk
 title: colin
+eleventyNavigation:
+  key: about
 ---
 
 # Colin Campbell

@@ -42,3 +42,11 @@ hr {
     border-bottom: 1px dashed #ccc;
 	background: #999;
 }
+
+nav {
+	float: right;
+}
+
+nav ul li {
+	display: inline;
+}

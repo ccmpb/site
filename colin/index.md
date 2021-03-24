@@ -38,7 +38,7 @@ eleventyNavigation:
 ## Contact
 ---
 * [linkedin](https://www.linkedin.com/in/colincode/)
-* [github](https://github.com/ccampb)
+* [github](https://github.com/ccmpb)
 
 <p>&nbsp;</p>
 
